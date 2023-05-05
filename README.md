@@ -6,11 +6,9 @@ Website que mostra alguns pokémon
 
 <img src="/public/capa.png" width="1000" height="600">
 
-<img "/capa.png" width="7000" height="600" /> 
-
 ## Tecnologias usuada
 
-- React Native (Expo)
-- Styled Components
+- React (Vite)
+- Tailwind css
 - Typescript
-- React Navigation v5
+- React Query
